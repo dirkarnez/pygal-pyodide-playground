@@ -1,6 +1,6 @@
 [pygal-pyodide-playground](https://dirkarnez.github.io/pygal-pyodide-playground)
 ================================================================================
-- [Pyodide — Version 0.24.1](https://pyodide.org/en/stable/index.html)
+[Installing — pygal 3.0.5 documentation](https://www.pygal.org/en/stable/installing.html)
 
 ### Notes
 - matplotlib needs this workaround to run on web workers (see [pyodide/matplotlib-pyodide](https://github.com/pyodide/matplotlib-pyodide))
